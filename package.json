@@ -1,0 +1,9 @@
+{
+  "name": "vue-screen-slider",
+  "version": "0.0.1",
+  "description": "Vue screen slider component",
+  "main": "index.js",
+  "repository": "https://github.com/ordinaryparksee/vue-screen-slider",
+  "author": "ordinaryparksee",
+  "license": "GPL"
+}
