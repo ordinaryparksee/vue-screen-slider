@@ -5,5 +5,15 @@
   "main": "index.js",
   "repository": "https://github.com/ordinaryparksee/vue-screen-slider",
   "author": "ordinaryparksee",
-  "license": "GPL"
+  "license": "GPL",
+  "scripts": {
+    "build": "vue build index.js"
+  },
+  "dependencies": {
+    "animejs": "^3.2.1",
+    "vue": "^2.6.12"
+  },
+  "devDependencies": {
+    "sass-loader": "^10.0.4"
+  }
 }
